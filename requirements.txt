@@ -1,0 +1,15 @@
+python-dotenv
+fitz
+PyMuPDF
+pdfplumber  
+langchain
+openai
+langchain_openai
+langchain_community
+langchain_pinecone
+langsmith
+pinecone
+pinecone[grpc]
+pinecone-client
+pinecone-text
+pinecone-notebooks
