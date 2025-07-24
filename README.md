@@ -92,3 +92,4 @@ To run this project, follow these steps:
   * `vectordb.py`: Handles the creation of text embeddings and their storage in the Pinecone vector database.
   * `retriever.py`: Sets up the RAG pipeline, defines the LLM's behavior via the system prompt, and manages the conversational flow.
   * `requirements.txt`: A list of all the Python libraries needed to run the project.
+  * `dataset/`: This folder should contain all the source documents (PDFs, JSON, etc.) that the chatbot will use to answer questions.
