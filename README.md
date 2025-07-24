@@ -1,6 +1,6 @@
 # BITS Chatbot
 
-This repository contains the source code for an advanced academic guidance chatbot for BITS Pilani. The chatbot is built using a Retrieval-Augmented Generation (RAG) architecture, leveraging OpenAI's language models and Pinecone's vector database to provide accurate and context-aware responses to student queries. It can answer questions about courses, minor programs, timetables, holidays, and other academic information by drawing from a variety of university documents like bulletins, course handouts, and timetables.
+This repository contains the source code for an advanced academic guidance chatbot for BITS Pilani. The chatbot is built using a **Retrieval-Augmented Generation (RAG) architecture**, leveraging **OpenAI**'s language models and **Pinecone's vector database** to provide accurate and context-aware responses to student queries. It can answer questions about courses, minor programs, timetables, holidays, and other academic information by drawing from a variety of university documents like bulletins, course handouts, and timetables.
 
 -----
 
